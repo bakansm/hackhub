@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"paths": {
+			"@/*": ["./src/*"]
+		}
+	},
+	"include": [
+		"next-env.d.ts",
+		"**/*.ts",
+		"**/*.tsx",
+		"types/**/*.d.ts",
+		"src/components/pages/hackathon/hackathonId/OverviewTab/DescriptionSection.jsx",
+		"src/components/lib/MarkdownEditor/index.tsx"
+, "src/pages/sandbox/index.jsx", "src/components/pages/Temp.jsx", "src/components/pages/create-hackathon/DescriptionStep/index.jsx"	],
+	"exclude": ["node_modules"]
+}

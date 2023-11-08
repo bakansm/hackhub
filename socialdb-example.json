@@ -1,0 +1,10 @@
+{
+	"48bb4f6e83a3ba95f027d12dca707be57697b302d4110d8b255a62ba17be178a": {
+		"post": {
+			"comment": "{\"type\":\"md\",\"text\":\"OK, good testing\",\"item\":{\"type\":\"social\",\"path\":\"48bb4f6e83a3ba95f027d12dca707be57697b302d4110d8b255a62ba17be178a/post/main\",\"blockHeight\":104823512}}"
+		},
+		"index": {
+			"comment": "{\"key\":{\"type\":\"social\",\"path\":\"48bb4f6e83a3ba95f027d12dca707be57697b302d4110d8b255a62ba17be178a/post/main\",\"blockHeight\":104823512},\"value\":{\"type\":\"md\"}}"
+		}
+	}
+}
